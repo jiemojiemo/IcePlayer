@@ -1,0 +1,41 @@
+﻿生成启动时间为 2015/1/31 22:52:16。
+     1>项目“C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\ICEPLAYER\ICEPLAYER.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_about.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_about.cpp, GeneratedFiles\Release\moc_about.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_iceButton.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_iceButton.cpp, GeneratedFiles\Release\moc_iceButton.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_icelabel.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_icelabel.cpp, GeneratedFiles\Release\moc_icelabel.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_iceplayer.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_iceplayer.cpp, GeneratedFiles\Release\moc_iceplayer.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_icevolbutton.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_icevolbutton.cpp, GeneratedFiles\Release\moc_icevolbutton.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_lyric.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_lyric.cpp, GeneratedFiles\Release\moc_lyric.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mini.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_mini.cpp, GeneratedFiles\Release\moc_mini.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_single_application.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_single_application.cpp, GeneratedFiles\Release\moc_single_application.cpp.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtCore /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtGui /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtMultimedia /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtMultimediaWidgets /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtWidgets /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\\QtWidgets\5.3.1\QtWidgets\private /IC:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\include\QtNetwork /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_MULTIMEDIA_LIB /D QT_MULTIMEDIAWIDGETS_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt iceplayer.cpp mini.cpp
+         iceplayer.cpp
+         mini.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\x64\Debug\\ICEPLAYER.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.3.1\5.3\msvc2013_64_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Multimediad.lib Qt5MultimediaWidgetsd.lib Qt5Widgetsd.lib Qt5Networkd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\x64\Debug\ICEPLAYER.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\x64\Debug\ICEPLAYER.lib" /MACHINE:X64 x64\Debug\about.obj
+         x64\Debug\moc_about.obj
+         x64\Debug\moc_iceButton.obj
+         x64\Debug\moc_icelabel.obj
+         x64\Debug\moc_iceplayer.obj
+         x64\Debug\moc_icevolbutton.obj
+         x64\Debug\moc_lyric.obj
+         x64\Debug\moc_mini.obj
+         x64\Debug\moc_single_application.obj
+         x64\Debug\qrc_iceplayer.obj
+         x64\Debug\iceButton.obj
+         x64\Debug\icelabel.obj
+         x64\Debug\iceplayer.obj
+         x64\Debug\icevolbutton.obj
+         x64\Debug\lyric.obj
+         x64\Debug\main.obj
+         x64\Debug\mini.obj
+         x64\Debug\nofocusdelegate.obj
+         x64\Debug\single_application.obj
+         ICEPLAYER.vcxproj -> C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\x64\Debug\ICEPLAYER.exe
+     1>已完成生成项目“C:\Users\ZQ\documents\visual studio 2013\Projects\ICEPLAYER\ICEPLAYER\ICEPLAYER.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.06
