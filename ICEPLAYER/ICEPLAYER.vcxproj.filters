@@ -29,6 +29,9 @@
       <Extensions>cpp;moc</Extensions>
       <SourceControlFiles>False</SourceControlFiles>
     </Filter>
+    <Filter Include="Source Files\MER">
+      <UniqueIdentifier>{803e8e40-c6f2-416d-afd3-d74d5b6da194}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GeneratedFiles\Debug\moc_iceplayer.cpp">
@@ -111,6 +114,45 @@
     </ClCompile>
     <ClCompile Include="single_application.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\MusicEmotionRecognizer.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libwavSegment\WaveFileSegmenter.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libwavSegment\WaveReader.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libwavSegment\WaveSegmenter.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\configFile.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\domain.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\feature.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\featureExtract.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\sampleMaker.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\segmenter.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libmusicFeature\wavFileVector.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libadaboost\AdaBoost.cpp">
+      <Filter>Source Files\MER</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\C++\Music Emotion Recognition Base On Adaboost\src\libadaboost\readSampleDataFile.cpp">
+      <Filter>Source Files\MER</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
